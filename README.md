@@ -1,6 +1,6 @@
 # breast_cancer_app
 
-A new Flutter project.
+This mobile application was built using Flutter and incorporates Firebase Authentication for login and signup features. Currently developed the UI and machine learning model separately, and currently working on integrating the machine learning model into the mobile application.
 
 ## Getting Started
 
